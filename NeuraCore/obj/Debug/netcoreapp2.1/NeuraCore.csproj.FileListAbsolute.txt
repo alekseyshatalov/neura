@@ -1,0 +1,11 @@
+C:\Users\Alexey\Desktop\Neura\NeuraCore\bin\Debug\netcoreapp2.1\NeuraCore.deps.json
+C:\Users\Alexey\Desktop\Neura\NeuraCore\bin\Debug\netcoreapp2.1\NeuraCore.runtimeconfig.json
+C:\Users\Alexey\Desktop\Neura\NeuraCore\bin\Debug\netcoreapp2.1\NeuraCore.runtimeconfig.dev.json
+C:\Users\Alexey\Desktop\Neura\NeuraCore\bin\Debug\netcoreapp2.1\NeuraCore.dll
+C:\Users\Alexey\Desktop\Neura\NeuraCore\bin\Debug\netcoreapp2.1\NeuraCore.pdb
+C:\Users\Alexey\Desktop\Neura\NeuraCore\obj\Debug\netcoreapp2.1\NeuraCore.csprojAssemblyReference.cache
+C:\Users\Alexey\Desktop\Neura\NeuraCore\obj\Debug\netcoreapp2.1\NeuraCore.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Neura\NeuraCore\obj\Debug\netcoreapp2.1\NeuraCore.AssemblyInfoInputs.cache
+C:\Users\Alexey\Desktop\Neura\NeuraCore\obj\Debug\netcoreapp2.1\NeuraCore.AssemblyInfo.cs
+C:\Users\Alexey\Desktop\Neura\NeuraCore\obj\Debug\netcoreapp2.1\NeuraCore.dll
+C:\Users\Alexey\Desktop\Neura\NeuraCore\obj\Debug\netcoreapp2.1\NeuraCore.pdb
